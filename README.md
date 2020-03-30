@@ -12,3 +12,8 @@
 * Java
 * Android Studio
 * Kotlin
+* gradle building
+
+## Deployment
+
+Add additional notes about other android reference
