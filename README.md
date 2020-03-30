@@ -16,4 +16,4 @@
 
 ## Deployment
 
-Add additional notes about other android reference
+Add additional notes about other android reference.
